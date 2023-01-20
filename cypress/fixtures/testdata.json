@@ -1,0 +1,13 @@
+{
+    "login_id": "dvalfre+trial6@engineyard.com",
+    "password": "Password123!",
+    "bucket_name": "buckettest1",
+    "redis_name": "testredis",
+    "system_user_name": "systemuserone",
+    "certificate_name": "certificateTest",
+    "cluster_name": "autoclus",
+    "database_name_1": "testdatabase",
+    "database_name_2": "testauto",
+    "devName": "Devtest"
+    
+}
